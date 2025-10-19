@@ -33,7 +33,7 @@ class ExpenseTrackerApp:
             
         # --- Variables ---
         # Your Gemini API key is now hard-coded here.
-        self.gemini_api_key = "AIzaSyDdNsf_7D3dIQY_2BiBkxADPS9ynGO9R1U"
+        self.gemini_api_key = "Add your gemini key here"
 
         # --- UI Creation ---
         self.create_widgets()
