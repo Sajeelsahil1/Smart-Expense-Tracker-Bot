@@ -101,7 +101,6 @@ Each user will be able to log in with Firebase Auth, so they only see their data
 
 ## 💡 Future Enhancements
 
-* 💬 **Gemini AI integration** to analyze your spending habits
 * 📱 Mobile UI in Flutter
 * 📈 Real-time dashboards
 * 🔔 Smart alerts for overspending
@@ -128,7 +127,3 @@ If you like this project, give it a **star ⭐ on GitHub** and follow for more!
 
 ```
 
----
-
-Would you like me to make a **version that includes badges** (e.g., “Python”, “Firebase”, “Open Source”, “MIT License”) for a more professional GitHub look?
-```
